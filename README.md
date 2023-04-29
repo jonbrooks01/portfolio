@@ -1,3 +1,3 @@
-# Modify this portfolio
+# URL to site
 
-Make it your own! 
+https://jonathan-brooks-portfolio.netlify.app/
