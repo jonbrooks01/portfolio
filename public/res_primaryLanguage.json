@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jonathan Brooks. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hello my name is Jonathan Brooks and I am a software developer. Previously I was an electrician for the federal government and I served in the united states navy for 8 years as well. I am passionate about taking on new challenges and learning new technologies and the way they can benefit our lives. Becoming a software developer has invigorated my passion for coding and overcoming the difficult but rewarding challenges that follow. I strive to be the best team player that I can be by learning from others and working my hardest to ensure we complete our goal. Im extremely detailed oriented and I strive to make sure I complete my job to the best of my ability! Thank You!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Milkshakes R Us",
+        "startDate": "2023",
+        "description": "We have a vision to create a milkshake recommendation website that helps people discover and enjoy delicious milkshakes tailored to their personal taste preferences. This addresses the pain point of people struggling to find milkshakes they enjoy, which can be frustrating and time-consuming. Our website aims to provide a curated selection of milkshake options based on users’ preferences, making it easier for people to find and enjoy their perfect milkshake.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/milkshake/p1.jpg",
+          "images/portfolio/milkshake/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/CodeFellows-201n30-Team1/MilkshakesRUs",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd-Duck",
+        "startDate": "2023",
+        "description": "I built this website to take a poll on products and get users input on which product they would like to purchase. The poll was then viewed as a chart with how many views each item received and how many times the item was selected.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/odd-duck/p1.jpg",
+          "images/portfolio/odd-duck/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/jonbrooks01/odd-duck",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2023",
+        "description": "Placeholder for final project for Code-301",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/final/p1.jpg",
+          "images/portfolio/final/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,37 +81,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer Student",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "React",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS"
+
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Puget Sound Naval Shipyard",
+        "title": "Electrician",
+        "years": "02.2012 - present",
         "mainTech": [
-          "Angular 7/8"
+ 
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+
+        ]
+      },
+      {
+        "company": "United States Navy",
+        "title": "Boatswain Mate",
+        "years": "10.2015 - 12.2022",
+        "mainTech": [
+ 
+        ],
+        "technologies": [
+
         ]
       }
     ]
