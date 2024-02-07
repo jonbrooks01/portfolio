@@ -1,124 +1,173 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 Hello my name is Jonathan Brooks and I am a software developer. Previously I was an electrician for the federal government and I served in the united states navy for 8 years as well. I am passionate about taking on new challenges and learning new technologies and the way they can benefit our lives. Becoming a software developer has invigorated my passion for coding and overcoming the difficult but rewarding challenges that follow. I strive to be the best team player that I can be by learning from others and working my hardest to ensure we complete our goal. Im extremely detailed oriented and I strive to make sure I complete my job to the best of my ability! Thank You!",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Hello my name is Jonathan Brooks and I am a software developer. Previously I was an electrician for the federal government and I served in the united states navy for 8 years as well. I am passionate about taking on new challenges and learning new technologies and the way they can benefit our lives. Becoming a software developer has invigorated my passion for coding and overcoming the difficult but rewarding challenges that follow. I strive to be the best team player that I can be by learning from others and working my hardest to ensure we complete our goal. Im extremely detailed oriented and I strive to make sure I complete my job to the best of my ability! Thank You!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Milkshakes R Us",
+      "startDate": "2023",
+      "description": "We have a vision to create a milkshake recommendation website that helps people discover and enjoy delicious milkshakes tailored to their personal taste preferences. This addresses the pain point of people struggling to find milkshakes they enjoy, which can be frustrating and time-consuming. Our website aims to provide a curated selection of milkshake options based on users’ preferences, making it easier for people to find and enjoy their perfect milkshake.",
+      "images": [
+        "images/portfolio/milkshake/p1.jpg",
+        "images/portfolio/milkshake/p2.jpg"
+      ],
+      "url": "https://github.com/CodeFellows-201n30-Team1/MilkshakesRUs",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Milkshakes R Us",
-        "startDate": "2023",
-        "description": "We have a vision to create a milkshake recommendation website that helps people discover and enjoy delicious milkshakes tailored to their personal taste preferences. This addresses the pain point of people struggling to find milkshakes they enjoy, which can be frustrating and time-consuming. Our website aims to provide a curated selection of milkshake options based on users’ preferences, making it easier for people to find and enjoy their perfect milkshake.",
-        "images": [
-          "images/portfolio/milkshake/p1.jpg",
-          "images/portfolio/milkshake/p2.jpg"
-        ],
-        "url": "https://github.com/CodeFellows-201n30-Team1/MilkshakesRUs",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Odd-Duck",
-        "startDate": "2023",
-        "description": "I built this website to take a poll on products and get users input on which product they would like to purchase. The poll was then viewed as a chart with how many views each item received and how many times the item was selected.",
-        "images": [
-          "images/portfolio/odd-duck/p1.jpg",
-          "images/portfolio/odd-duck/p2.jpg"
-        ],
-        "url": "https://github.com/jonbrooks01/odd-duck",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "301 Final Project",
-        "startDate": "2023",
-        "description": "Placeholder for final project for Code-301",
-        "images": [
-          "images/portfolio/final/p1.jpg",
-          "images/portfolio/final/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Code Fellows",
-        "title": "Software Developer Student",
-        "years": "01.2023 - present",
-        "mainTech": [
-          "HTML"
-        ],
-        "technologies": [
-          "HTML",
-          "React",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "CSS"
-
-
-        ]
-      },
-      {
-        "company": "Puget Sound Naval Shipyard",
-        "title": "Electrician",
-        "years": "02.2012 - present",
-        "mainTech": [
- 
-        ],
-        "technologies": [
-
-        ]
-      },
-      {
-        "company": "United States Navy",
-        "title": "Boatswain Mate",
-        "years": "10.2015 - 12.2022",
-        "mainTech": [
- 
-        ],
-        "technologies": [
-
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Odd-Duck",
+      "startDate": "2023",
+      "description": "I built this website to take a poll on products and get users input on which product they would like to purchase. The poll was then viewed as a chart with how many views each item received and how many times the item was selected.",
+      "images": [
+        "images/portfolio/odd-duck/p1.jpg",
+        "images/portfolio/odd-duck/p2.jpg"
+      ],
+      "url": "https://github.com/jonbrooks01/odd-duck",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "301 Final Project",
+      "startDate": "2023",
+      "description": "Placeholder for final project for Code-301",
+      "images": [
+        "images/portfolio/final/p1.jpg",
+        "images/portfolio/final/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "301 Final Project",
+      "startDate": "2023",
+      "description": "Placeholder for final project for Code-301",
+      "images": [
+        "images/portfolio/final/p1.jpg",
+        "images/portfolio/final/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "301 Final Project",
+      "startDate": "2023",
+      "description": "Placeholder for final project for Code-301",
+      "images": [
+        "images/portfolio/final/p1.jpg",
+        "images/portfolio/final/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Western Governors University",
+      "title": "Computer Science Student",
+      "years": "12.2023 - present",
+      "mainTech": [],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Java",
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "company": "Code Fellows",
+      "title": "Software Developer Student",
+      "years": "01.2023 - 12.2023",
+      "mainTech": ["HTML"],
+      "technologies": [
+        "HTML",
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Puget Sound Naval Shipyard",
+      "title": "Electrician",
+      "years": "02.2012 - present",
+      "mainTech": [],
+      "technologies": []
+    },
+    {
+      "company": "United States Navy",
+      "title": "Boatswain Mate",
+      "years": "10.2015 - 12.2022",
+      "mainTech": [],
+      "technologies": []
+    }
+  ]
+}
